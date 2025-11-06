@@ -44,7 +44,7 @@ Figma (para o design base)
 
 Clone o repositório
 
-git clone [https://github.com/SEU_USUARIO/flutter_login_ui](https://github.com/LucasBatistaX/Layout_Login).git
+git clone https://github.com/LucasBatistaX/Layout_Login.git
 
 
 💡 Aprendizados
@@ -70,3 +70,4 @@ Lucas Batista
 
 Este projeto é de uso educacional e livre para estudos.
 Sinta-se à vontade para clonar, modificar e usar como base para seus próprios layouts!
+
